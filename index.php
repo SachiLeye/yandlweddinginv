@@ -430,7 +430,7 @@ for ($d = 1; $d <= 31; $d++) {
                   <path d="M12 7v5l3 2"/>
                 </svg>
               </div>
-              <span class="card-kicker">Morning Ceremony &amp; Reception</span>
+              <span class="card-kicker">Morning Reception</span>
               <h3 class="card-big-title"><?= htmlspecialchars($wedding['time_short'], ENT_QUOTES, 'UTF-8') ?></h3>
               <p class="card-subtitle"><?= htmlspecialchars($wedding['time_display'], ENT_QUOTES, 'UTF-8') ?></p>
 
