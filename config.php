@@ -35,7 +35,7 @@ $wedding = [
     'venue_name'       => 'Leyesa Residence',
     'venue_address'    => 'Barangay Comunal, Calapan City',
     'venue_full'       => 'Leyesa Residence, Barangay Comunal, Calapan City',
-    'venue_note'       => 'Ceremony &amp; Reception will be lovingly held at the family residence amidst a soft pastel floral garden setting.',
+    'venue_note'       => 'Reception will be lovingly held at the family residence amidst a soft pastel floral garden setting.',
     'maps_url'         => 'https://www.google.com/maps/search/?api=1&query=Leyesa+Residence+Barangay+Comunal+Calapan+City',
 
     // Envelope Landing Copy
