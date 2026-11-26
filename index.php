@@ -430,7 +430,7 @@ for ($d = 1; $d <= 31; $d++) {
                   <path d="M12 7v5l3 2"/>
                 </svg>
               </div>
-              <span class="card-kicker">Morning Reception</span>
+              <span class="card-kicker">Morning Ceremony &amp; Reception</span>
               <h3 class="card-big-title"><?= htmlspecialchars($wedding['time_short'], ENT_QUOTES, 'UTF-8') ?></h3>
               <p class="card-subtitle"><?= htmlspecialchars($wedding['time_display'], ENT_QUOTES, 'UTF-8') ?></p>
 
@@ -486,7 +486,7 @@ for ($d = 1; $d <= 31; $d++) {
             </div>
 
             <div class="venue-details">
-              <span class="card-kicker">Ceremony &amp; Reception Venue</span>
+              <span class="card-kicker">Reception Venue</span>
               <h3 class="venue-name"><?= htmlspecialchars($wedding['venue_name'], ENT_QUOTES, 'UTF-8') ?></h3>
               <p class="venue-address"><?= htmlspecialchars($wedding['venue_address'], ENT_QUOTES, 'UTF-8') ?></p>
               <p class="venue-note"><?= $wedding['venue_note'] ?></p>
